@@ -1,1 +1,1 @@
-<img src="Me.png" width="200" height="200" alt="Avatar">
+<img src="Me.png" width="100" height="100" alt="Avatar">
