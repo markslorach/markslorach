@@ -1,3 +1,3 @@
 ## Hello, I'm Mark 👋
 
-I'm a full-stack software developer currently focused on modern JavaScript development.
+A Scotland-based full-stack software developer focused on building modern and user-friendly web applications.
