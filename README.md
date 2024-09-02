@@ -9,7 +9,6 @@ I'm a full-stack developer with a keen interest in front-end development. I rece
 🌱 I’m currently learning -
   - React Query and Redux state management.
   - JavaScript and React testing with Vitest.
-  - TypeScript for improved code quality and maintainability.
 
 📫 How to reach me -
   - Email: hello@markslorach.com
