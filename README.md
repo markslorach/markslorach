@@ -4,6 +4,7 @@ I'm a full-stack developer with a keen interest in front-end development. I rece
 
 👨‍💻 I’m currently working on -
   - Improving the design and adding more features to [minilist](https://github.com/markslorach/minilist.git).
+  - Researching MDX and headless CMS systems to incorporate a blog into my [personal website](https://markslorach.com).
 
 🌱 I’m currently learning -
   - React Query and Redux state management.
