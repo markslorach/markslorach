@@ -11,5 +11,5 @@ I'm a full-stack developer with a keen interest in front-end development. I rece
 
 📫 How to reach me -
   - Email: hello@markslorach.com
-  - Website: https://markslorach.com
-  - LinkedIn: https://www.linkedin.com/in/markslorach
+  - Website: [markslorach.com](https://markslorach.com)
+  - LinkedIn: [in/markslorach](https://www.linkedin.com/in/markslorach)
