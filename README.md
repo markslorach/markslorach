@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Mark.
 
-I'm a Junior Full-Stack Developer with a keen interest in front-end development. I recently graduated from CodeClan's software development bootcamp following a career as a freelance videographer. I enjoy all things code, especially working with React and the JavaScript ecosystem.
+I'm a Junior Software Developer with a keen interest in full-stack development. I recently graduated from CodeClan's software development bootcamp following a career as a freelance videographer. I enjoy all things code, especially working with React and the JavaScript ecosystem.
 
 👨‍💻 I’m currently working on -
   - Improving the design and adding features to [minilist](https://github.com/markslorach/minilist.git).
