@@ -6,8 +6,8 @@ I'm a Junior Software Developer with a keen interest in full-stack development. 
   - Researching MDX and headless CMS systems to incorporate a blog into my [personal website](https://markslorach.com).
 
 🌱 I’m currently learning -
-  - React Query and Redux state management.
-  - JavaScript and React testing with Vitest.
+  - React Query and state management solutions.
+  - JavaScript and React testing.
 
 📫 How to reach me -
   - Email: hello@markslorach.com
